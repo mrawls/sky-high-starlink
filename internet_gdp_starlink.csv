@@ -1,0 +1,244 @@
+CountryName,CountryCode,GDP,internet,cost_percent,no_internet,type,type_n
+Burundi,BDI,2.93E+02,2.66,327.65,97.34,Unaffordable needed,0
+Guinea-Bissau,GNB,7.37E+02,3.93,130.31,96.07,Unaffordable needed,0
+Central African Republic,CAF,4.51E+02,4.34,212.91,95.66,Unaffordable needed,0
+Chad,TCD,6.66E+02,6.50,144.15,93.50,Unaffordable needed,0
+Liberia,LBR,6.99E+02,7.98,137.40,92.02,Unaffordable needed,0
+Comoros,COM,1.32E+03,8.48,72.52,91.52,Unaffordable needed,0
+Congo Dem. Rep.,COD,4.67E+02,8.62,205.54,91.38,Unaffordable needed,0
+Congo Rep.,COG,1.77E+03,8.65,54.30,91.35,Unaffordable needed,0
+Sierra Leone,SLE,4.99E+02,9.00,192.24,91.00,Unaffordable needed,0
+Madagascar,MDG,5.15E+02,9.80,186.30,90.20,Unaffordable needed,0
+Mozambique,MOZ,4.61E+02,10.00,208.05,90.00,Unaffordable needed,0
+Niger,NER,5.17E+02,10.22,185.73,89.78,Unaffordable needed,0
+Papua New Guinea,PNG,2.70E+03,11.21,35.62,88.79,Unaffordable needed,0
+Solomon Islands,SLB,2.06E+03,11.92,46.62,88.08,Unaffordable needed,0
+Haiti,HTI,7.66E+02,12.33,125.37,87.67,Unaffordable needed,0
+Togo,TGO,6.26E+02,12.36,153.33,87.64,Unaffordable needed,0
+Mali,MLI,8.31E+02,13.00,115.58,87.00,Unaffordable needed,0
+Afghanistan,AFG,5.56E+02,13.50,172.57,86.50,Unaffordable needed,0
+Malawi,MWI,3.57E+02,13.78,269.12,86.22,Unaffordable needed,0
+Angola,AGO,4.10E+03,14.34,23.44,85.66,Unaffordable needed,0
+Kiribati,KIR,1.64E+03,14.58,58.52,85.42,Unaffordable needed,0
+Bangladesh,BGD,1.56E+03,15.00,61.38,85.00,Unaffordable needed,0
+Pakistan,PAK,1.46E+03,15.51,65.53,84.49,Unaffordable needed,0
+Low income,LIC,7.80E+02,15.78,123.14,84.22,Unaffordable needed,0
+Burkina Faso,BFA,7.38E+02,16.00,130.03,84.00,Unaffordable needed,0
+Kenya,KEN,1.57E+03,17.83,61.06,82.17,Unaffordable needed,0
+Guinea,GIN,8.57E+02,18.00,112.07,82.00,Unaffordable needed,0
+Least developed countries: UN classification,LDC,1.04E+03,18.25,92.20,81.75,Unaffordable needed,0
+Ethiopia,ETH,7.69E+02,18.62,124.92,81.38,Unaffordable needed,0
+Heavily indebted poor countries (HIPC),HPC,9.29E+02,19.35,103.29,80.65,Unaffordable needed,0
+Gambia The,GMB,6.77E+02,19.84,141.87,80.16,Unaffordable needed,0
+Benin,BEN,1.14E+03,20.00,84.46,80.00,Unaffordable needed,0
+IDA only,IDX,1.11E+03,20.25,86.46,79.75,Unaffordable needed,0
+Mauritania,MRT,1.58E+03,20.80,60.83,79.20,Unaffordable needed,0
+Turkmenistan,TKM,6.59E+03,21.25,14.57,78.75,Unaffordable needed,0
+Libya,LBY,5.76E+03,21.76,16.68,78.24,Unaffordable needed,0
+Rwanda,RWA,7.72E+02,21.77,124.30,78.23,Unaffordable needed,0
+Tajikistan,TJK,8.06E+02,21.96,119.10,78.04,Unaffordable needed,0
+St. Vincent and the Grenadines,VCT,7.21E+03,22.00,13.31,78.00,Unaffordable needed,0
+IDA total,IDA,1.31E+03,22.86,73.13,77.14,Unaffordable needed,0
+Cameroon,CMR,1.43E+03,23.20,67.36,76.80,Unaffordable needed,0
+Mongolia,MNG,3.67E+03,23.71,26.16,76.29,Unaffordable needed,0
+Uganda,UGA,7.47E+02,23.71,128.48,76.29,Unaffordable needed,0
+Pre-demographic dividend,PRE,1.41E+03,24.06,67.85,75.94,Unaffordable needed,0
+Tanzania,TZA,1.00E+03,25.00,95.54,75.00,Unaffordable needed,0
+Sub-Saharan Africa (excluding high income),SSA,1.55E+03,25.38,61.98,74.62,Unaffordable not needed,1
+Sub-Saharan Africa,SSF,1.56E+03,25.42,61.50,74.58,Unaffordable not needed,1
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1.56E+03,25.42,61.50,74.58,Unaffordable not needed,1
+Lao PDR,LAO,2.42E+03,25.51,39.61,74.49,Unaffordable not needed,1
+Vanuatu,VUT,3.08E+03,25.72,31.14,74.28,Unaffordable not needed,1
+Equatorial Guinea,GNQ,9.67E+03,26.24,9.93,73.76,Affordable not needed,2
+Yemen Rep.,YEM,8.82E+02,26.72,108.79,73.28,Unaffordable not needed,1
+Zimbabwe,ZWE,1.55E+03,27.06,62.01,72.94,Unaffordable not needed,1
+Timor-Leste,TLS,1.29E+03,27.49,74.15,72.51,Unaffordable not needed,1
+Zambia,ZMB,1.53E+03,27.85,62.55,72.15,Unaffordable not needed,1
+Nicaragua,NIC,2.16E+03,27.86,44.46,72.14,Unaffordable not needed,1
+IDA blend,IDB,1.71E+03,28.03,55.99,71.97,Unaffordable not needed,1
+Fragile and conflict affected situations,FCS,2.08E+03,28.77,46.05,71.23,Unaffordable not needed,1
+Lesotho,LSO,1.15E+03,29.00,83.47,71.00,Unaffordable not needed,1
+Sao Tome and Principe,STP,1.81E+03,29.93,53.01,70.07,Unaffordable not needed,1
+South Asia,SAS,1.87E+03,30.10,51.42,69.90,Unaffordable not needed,1
+South Asia (IDA & IBRD),TSA,1.87E+03,30.10,51.42,69.90,Unaffordable not needed,1
+Myanmar,MMR,1.29E+03,30.68,74.33,69.32,Unaffordable not needed,1
+Sudan,SDN,1.11E+03,30.87,86.34,69.13,Unaffordable not needed,1
+Honduras,HND,2.45E+03,31.70,39.12,68.30,Unaffordable not needed,1
+Indonesia,IDN,3.84E+03,32.29,25.02,67.71,Unaffordable not needed,1
+Cambodia,KHM,1.39E+03,32.45,69.30,67.55,Unaffordable not needed,1
+Pacific island small states,PSS,4.13E+03,32.70,23.23,67.30,Unaffordable not needed,1
+Samoa,WSM,4.26E+03,33.61,22.54,66.39,Unaffordable not needed,1
+El Salvador,SLV,3.91E+03,33.82,24.55,66.18,Unaffordable not needed,1
+Nepal,NPL,9.11E+02,34.00,105.33,66.00,Unaffordable not needed,1
+Sri Lanka,LKA,4.08E+03,34.11,23.55,65.89,Unaffordable not needed,1
+India,IND,1.98E+03,34.45,48.44,65.55,Unaffordable not needed,1
+Lower middle income,LMC,2.03E+03,34.93,47.18,65.07,Unaffordable not needed,1
+Micronesia Fed. Sts.,FSM,3.29E+03,35.30,29.18,64.70,Unaffordable not needed,1
+Guyana,GUY,4.59E+03,37.33,20.93,62.67,Unaffordable not needed,1
+Kyrgyz Republic,KGZ,1.24E+03,38.00,77.25,62.00,Unaffordable not needed,1
+Early-demographic dividend,EAR,3.55E+03,38.03,27.06,61.97,Unaffordable not needed,1
+Marshall Islands,MHL,3.67E+03,38.70,26.18,61.30,Unaffordable not needed,1
+Ghana,GHA,2.03E+03,39.00,47.39,61.00,Unaffordable not needed,1
+Tonga,TON,4.22E+03,41.25,22.76,58.75,Unaffordable not needed,1
+Nigeria,NGA,1.97E+03,42.00,48.77,58.00,Unaffordable not needed,1
+Low & middle income,LMY,4.75E+03,42.94,20.21,57.06,Unaffordable not needed,1
+IDA & IBRD total,IBT,4.89E+03,43.32,19.65,56.68,Unaffordable not needed,1
+Bolivia,BOL,3.35E+03,43.83,28.65,56.17,Unaffordable not needed,1
+Cote d'Ivoire,CIV,2.11E+03,43.84,45.48,56.16,Unaffordable not needed,1
+Egypt Arab Rep.,EGY,2.44E+03,44.95,39.34,55.05,Unaffordable not needed,1
+Middle income,MIC,5.19E+03,45.85,18.49,54.15,Unaffordable not needed,1
+Senegal,SEN,1.36E+03,46.00,70.50,54.00,Unaffordable not needed,1
+Botswana,BWA,7.89E+03,47.00,12.16,53.00,Unaffordable not needed,1
+Eswatini,SWZ,3.95E+03,47.00,24.28,53.00,Unaffordable not needed,1
+Belize,BLZ,4.89E+03,47.08,19.64,52.92,Unaffordable not needed,1
+Algeria,DZA,4.04E+03,47.69,23.74,52.31,Unaffordable not needed,1
+Bhutan,BTN,3.29E+03,48.11,29.21,51.89,Unaffordable not needed,1
+Peru,PER,6.71E+03,48.73,14.31,51.27,Unaffordable not needed,1
+Suriname,SUR,5.63E+03,48.95,17.06,51.05,Unaffordable not needed,1
+Arab World,ARB,6.10E+03,49.26,15.73,50.74,Unaffordable not needed,1
+Tuvalu,TUV,3.57E+03,49.32,26.87,50.68,Unaffordable not needed,1
+Iraq,IRQ,5.21E+03,49.36,18.44,50.64,Unaffordable not needed,1
+Fiji,FJI,6.10E+03,49.97,15.74,50.03,Unaffordable not needed,1
+IBRD only,IBD,6.09E+03,50.17,15.76,49.83,Unaffordable not needed,1
+St. Lucia,LCA,1.10E+04,50.82,8.69,49.18,Affordable not needed,2
+Middle East & North Africa (IDA & IBRD countries),TMN,3.80E+03,50.98,25.26,49.02,Unaffordable not needed,1
+Namibia,NAM,5.30E+03,51.00,18.10,49.00,Unaffordable not needed,1
+Middle East & North Africa (excluding high income),MNA,3.79E+03,51.16,25.30,48.84,Unaffordable not needed,1
+East Asia & Pacific (excluding high income),EAP,7.17E+03,51.17,13.38,48.83,Unaffordable not needed,1
+East Asia & Pacific (IDA & IBRD countries),TEA,7.25E+03,51.17,13.24,48.83,Unaffordable not needed,1
+Uzbekistan,UZB,1.83E+03,52.31,52.56,47.69,Unaffordable not needed,1
+Small states,SST,1.21E+04,52.80,7.91,47.20,Affordable not needed,2
+Other small states,OSS,1.34E+04,52.85,7.16,47.15,Affordable not needed,2
+Thailand,THA,6.59E+03,52.89,14.56,47.11,Unaffordable not needed,1
+China,CHN,8.88E+03,54.30,10.81,45.70,Unaffordable not needed,1
+East Asia & Pacific,EAS,1.05E+04,55.07,9.17,44.93,Affordable not needed,2
+Jamaica,JAM,5.07E+03,55.07,18.94,44.93,Unaffordable not needed,1
+Mauritius,MUS,1.05E+04,55.40,9.16,44.60,Affordable not needed,2
+Djibouti,DJI,2.91E+03,55.68,32.94,44.32,Unaffordable not needed,1
+South Africa,ZAF,6.13E+03,56.17,15.65,43.83,Unaffordable not needed,1
+Middle East & North Africa,MEA,7.41E+03,56.22,12.95,43.78,Unaffordable not needed,1
+Upper middle income,UMC,8.36E+03,56.67,11.48,43.33,Unaffordable not needed,1
+Nauru,NRU,8.51E+03,57.00,11.28,43.00,Unaffordable not needed,1
+Cuba,CUB,8.54E+03,57.15,11.24,42.85,Unaffordable not needed,1
+Cabo Verde,CPV,3.29E+03,57.16,29.16,42.84,Unaffordable not needed,1
+Ecuador,ECU,6.21E+03,57.27,15.45,42.73,Unaffordable not needed,1
+Panama,PAN,1.52E+04,57.87,6.34,42.13,Affordable not needed,2
+Vietnam,VNM,2.37E+03,58.14,40.58,41.86,Unaffordable not needed,1
+Seychelles,SYC,1.59E+04,58.77,6.04,41.23,Affordable not needed,2
+Ukraine,UKR,2.64E+03,58.89,36.35,41.11,Unaffordable not needed,1
+Grenada,GRD,1.02E+04,59.07,9.46,40.93,Affordable not needed,2
+Caribbean small states,CSS,9.56E+03,59.18,10.04,40.82,Unaffordable not needed,1
+Late-demographic dividend,LTE,9.03E+03,59.24,10.63,40.76,Unaffordable not needed,1
+Georgia,GEO,4.36E+03,59.71,22.03,40.29,Unaffordable not needed,1
+Philippines,PHL,3.12E+03,60.05,30.74,39.95,Unaffordable not needed,1
+San Marino,SMR,4.54E+04,60.18,2.11,39.82,Affordable not needed,2
+Paraguay,PRY,5.68E+03,61.08,16.90,38.92,Unaffordable not needed,1
+Morocco,MAR,3.04E+03,61.76,31.62,38.24,Unaffordable not needed,1
+Gabon,GAB,7.23E+03,62.00,13.28,38.00,Unaffordable not needed,1
+Colombia,COL,6.38E+03,62.26,15.05,37.74,Unaffordable not needed,1
+Latin America & Caribbean (excluding high income),LAC,8.99E+03,62.53,10.68,37.47,Unaffordable not needed,1
+Italy,ITA,3.24E+04,63.08,2.96,36.92,Affordable not needed,2
+Maldives,MDV,9.54E+03,63.19,10.06,36.81,Unaffordable not needed,1
+Latin America & Caribbean,LCN,9.43E+03,63.22,10.18,36.78,Unaffordable not needed,1
+Latin America & the Caribbean (IDA & IBRD countries),TLA,9.29E+03,63.26,10.34,36.74,Unaffordable not needed,1
+Bulgaria,BGR,8.33E+03,63.41,11.52,36.59,Unaffordable not needed,1
+Romania,ROU,1.08E+04,63.75,8.88,36.25,Affordable not needed,2
+Mexico,MEX,9.28E+03,63.85,10.35,36.15,Unaffordable not needed,1
+Iran Islamic Rep.,IRN,5.52E+03,64.04,17.39,35.96,Unaffordable not needed,1
+Tunisia,TUN,3.48E+03,64.19,27.58,35.81,Unaffordable not needed,1
+Virgin Islands (U.S.),VIR,3.59E+04,64.38,2.67,35.62,Affordable not needed,2
+Turkey,TUR,1.05E+04,64.68,9.13,35.32,Affordable not needed,2
+Armenia,ARM,3.91E+03,64.74,24.52,35.26,Unaffordable not needed,1
+Bosnia and Herzegovina,BIH,5.39E+03,64.89,17.80,35.11,Unaffordable not needed,1
+Guatemala,GTM,4.45E+03,65.00,21.57,35.00,Unaffordable not needed,1
+West Bank and Gaza,PSE,3.25E+03,65.20,29.50,34.80,Unaffordable not needed,1
+Europe & Central Asia (excluding high income),ECA,7.86E+03,66.73,12.21,33.27,Unaffordable not needed,1
+Jordan,JOR,4.16E+03,66.79,23.06,33.21,Unaffordable not needed,1
+Croatia,HRV,1.34E+04,67.10,7.16,32.90,Affordable not needed,2
+Europe & Central Asia (IDA & IBRD countries),TEC,8.54E+03,67.37,11.24,32.63,Unaffordable not needed,1
+Brazil,BRA,9.93E+03,67.47,9.67,32.53,Affordable not needed,2
+Dominican Republic,DOM,7.61E+03,67.57,12.62,32.43,Unaffordable not needed,1
+Curacao,CUW,1.95E+04,68.13,4.93,31.87,Affordable not needed,2
+Uruguay,URY,1.73E+04,68.28,5.54,31.72,Affordable not needed,2
+Greenland,GRL,5.03E+04,69.48,1.91,30.52,Affordable not needed,2
+Dominica,DMA,7.27E+03,69.62,13.20,30.38,Unaffordable not needed,1
+Serbia,SRB,6.28E+03,70.33,15.28,29.67,Unaffordable not needed,1
+Greece,GRC,1.89E+04,70.55,5.07,29.45,Affordable not needed,2
+Puerto Rico,PRI,3.11E+04,70.60,3.09,29.40,Affordable not needed,2
+Montenegro,MNE,7.80E+03,71.27,12.30,28.73,Unaffordable not needed,1
+Costa Rica,CRI,1.18E+04,71.39,8.13,28.61,Affordable not needed,2
+Albania,ALB,4.53E+03,71.85,21.19,28.15,Unaffordable not needed,1
+Central Europe and the Baltics,CEB,1.42E+04,73.41,6.76,26.59,Affordable not needed,2
+Portugal,PRT,2.15E+04,73.79,4.47,26.21,Affordable not needed,2
+Argentina,ARG,1.46E+04,74.29,6.58,25.71,Affordable not needed,2
+Belarus,BLR,5.76E+03,74.44,16.66,25.56,Unaffordable not needed,1
+North Macedonia,MKD,5.43E+03,74.52,17.68,25.48,Unaffordable not needed,1
+Europe & Central Asia,ECS,2.36E+04,75.03,4.07,24.97,Affordable not needed,2
+Poland,POL,1.39E+04,75.99,6.93,24.01,Affordable not needed,2
+Antigua and Barbuda,ATG,1.54E+04,76.00,6.24,24.00,Affordable not needed,2
+Russian Federation,RUS,1.07E+04,76.01,8.95,23.99,Affordable not needed,2
+Moldova,MDA,3.51E+03,76.12,27.35,23.88,Unaffordable not needed,1
+Kazakhstan,KAZ,9.25E+03,76.43,10.38,23.57,Unaffordable not needed,1
+Hungary,HUN,1.45E+04,76.75,6.64,23.25,Affordable not needed,2
+Trinidad and Tobago,TTO,1.62E+04,77.33,5.91,22.67,Affordable not needed,2
+Lithuania,LTU,1.69E+04,77.62,5.69,22.38,Affordable not needed,2
+Lebanon,LBN,7.80E+03,78.18,12.31,21.82,Unaffordable not needed,1
+Czech Republic,CZE,2.04E+04,78.72,4.71,21.28,Affordable not needed,2
+European Union,EUU,3.30E+04,78.76,2.91,21.24,Affordable not needed,2
+Slovenia,SVN,2.35E+04,78.89,4.08,21.11,Affordable not needed,2
+Azerbaijan,AZE,4.15E+03,79.00,23.15,21.00,Unaffordable not needed,1
+Euro area,EMU,3.71E+04,79.66,2.59,20.34,Affordable not needed,2
+Latvia,LVA,1.56E+04,80.11,6.16,19.89,Affordable not needed,2
+Malaysia,MYS,1.03E+04,80.14,9.36,19.86,Affordable not needed,2
+Oman,OMN,1.51E+04,80.19,6.34,19.81,Affordable not needed,2
+France,FRA,3.88E+04,80.50,2.47,19.50,Affordable not needed,2
+Guam,GUM,3.56E+04,80.51,2.70,19.49,Affordable not needed,2
+St. Kitts and Nevis,KNA,1.92E+04,80.71,5.01,19.29,Affordable not needed,2
+Cyprus,CYP,2.63E+04,80.74,3.64,19.26,Affordable not needed,2
+Malta,MLT,2.72E+04,81.01,3.52,18.99,Affordable not needed,2
+OECD members,OED,3.74E+04,81.01,2.57,18.99,Affordable not needed,2
+Cayman Islands,CYM,8.11E+04,81.07,1.18,18.93,Affordable not needed,2
+Israel,ISR,4.05E+04,81.58,2.37,18.42,Affordable not needed,2
+Slovak Republic,SVK,1.76E+04,81.63,5.47,18.37,Affordable not needed,2
+Barbados,BRB,1.74E+04,81.76,5.52,18.24,Affordable not needed,2
+Saudi Arabia,SAU,2.08E+04,82.12,4.61,17.88,Affordable not needed,2
+Chile,CHL,1.50E+04,82.33,6.40,17.67,Affordable not needed,2
+Macao SAR China,MAC,8.15E+04,83.17,1.18,16.83,Affordable not needed,2
+Post-demographic dividend,PST,4.29E+04,83.82,2.24,16.18,Affordable not needed,2
+Kosovo,XKX,4.05E+03,83.89,23.73,16.11,Unaffordable not needed,1
+Ireland,IRL,6.98E+04,84.11,1.37,15.89,Affordable not needed,2
+Germany,DEU,4.43E+04,84.40,2.16,15.60,Affordable not needed,2
+Singapore,SGP,6.09E+04,84.45,1.58,15.55,Affordable not needed,2
+Japan,JPN,3.84E+04,84.59,2.50,15.41,Affordable not needed,2
+Spain,ESP,2.82E+04,84.60,3.41,15.40,Affordable not needed,2
+High income,HIC,4.20E+04,84.64,2.29,15.36,Affordable not needed,2
+Bahamas The,BHS,3.18E+04,85.00,3.02,15.00,Affordable not needed,2
+Australia,AUS,5.41E+04,86.55,1.78,13.45,Affordable not needed,2
+United States,USA,6.00E+04,87.27,1.60,12.73,Affordable not needed,2
+Finland,FIN,4.63E+04,87.47,2.07,12.53,Affordable not needed,2
+North America,NAC,5.85E+04,87.65,1.64,12.35,Affordable not needed,2
+Belgium,BEL,4.43E+04,87.68,2.17,12.32,Affordable not needed,2
+Austria,AUT,4.75E+04,87.94,2.02,12.06,Affordable not needed,2
+Estonia,EST,2.04E+04,88.10,4.71,11.90,Affordable not needed,2
+Hong Kong SAR China,HKG,4.62E+04,89.42,2.08,10.58,Affordable not needed,2
+Switzerland,CHE,8.04E+04,89.69,1.19,10.31,Affordable not needed,2
+New Zealand,NZL,4.28E+04,90.81,2.24,9.19,Affordable not needed,2
+Canada,CAN,4.51E+04,91.00,2.13,9.00,Affordable not needed,2
+Andorra,AND,3.90E+04,91.57,2.46,8.43,Affordable not needed,2
+Netherlands,NLD,4.87E+04,93.20,1.97,6.80,Affordable not needed,2
+United Kingdom,GBR,4.04E+04,94.62,2.38,5.38,Affordable not needed,2
+United Arab Emirates,ARE,4.06E+04,94.82,2.36,5.18,Affordable not needed,2
+Brunei Darussalam,BRN,2.86E+04,94.87,3.36,5.13,Affordable not needed,2
+Korea Rep.,KOR,3.16E+04,95.07,3.04,4.93,Affordable not needed,2
+Sweden,SWE,5.38E+04,95.51,1.78,4.49,Affordable not needed,2
+Bahrain,BHR,2.37E+04,95.88,4.05,4.12,Affordable not needed,2
+Norway,NOR,7.55E+04,96.36,1.27,3.64,Affordable not needed,2
+Monaco,MCO,1.68E+05,97.05,0.57,2.95,Affordable not needed,2
+Denmark,DNK,5.71E+04,97.10,1.68,2.90,Affordable not needed,2
+Aruba,ABW,2.90E+04,97.17,3.31,2.83,Affordable not needed,2
+Luxembourg,LUX,1.08E+05,97.36,0.89,2.64,Affordable not needed,2
+Qatar,QAT,6.13E+04,97.39,1.57,2.61,Affordable not needed,2
+Faroe Islands,FRO,5.86E+04,97.58,1.64,2.42,Affordable not needed,2
+Liechtenstein,LIE,1.73E+05,98.10,0.55,1.90,Affordable not needed,2
+Iceland,ISL,7.13E+04,98.26,1.35,1.74,Affordable not needed,2
+Kuwait,KWT,2.98E+04,100.00,3.23,0.00,Affordable not needed,2
