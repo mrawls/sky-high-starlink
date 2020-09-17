@@ -1,0 +1,163 @@
+﻿CountryName,ContinentName,ContinentCode,CountryCode,CurrentCost,InternetPercentage,GDPcapita,Pop,Category,Category2,Category3
+Algeria,Africa,AF,DZA,25.93,0.595797,4114.715061,42200000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Angola,Africa,AF,AGO,59.04,0.143391,3289.646664,30800000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Benin,Africa,AF,BEN,59.34,0.2,1240.829464,11500000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Botswana,Africa,AF,BWA,112.38,0.47,8279.601365,2250000,Affordable and needed,More expensive than satellite,Affordable and needed
+Burundi,Africa,AF,BDI,283.73,0.0266075,271.7520444,11200000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Cameroon,Africa,AF,CMR,60.47,0.23203,1534.491274,25200000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Comoros,Africa,AF,COM,98.23,0.0847817,1415.955313,832000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Cote d'Ivoire,Africa,AF,CIV,66.12,0.468237,2302.612951,25100000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Djibouti,Africa,AF,DJI,95.07,0.556814,3141.889219,959000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Egypt Arab Rep.,Africa,AF,EGY,13.82,0.469243,2549.132252,98400000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Equatorial Guinea,Africa,AF,GNQ,259.38,0.2624,10144.19581,1310000,Affordable and needed,More expensive than satellite,Affordable and needed
+Eswatini,Africa,AF,SWZ,21.73,0.47,4145.97411,1140000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Ethiopia,Africa,AF,ETH,71.15,0.186181,771.5238139,109000000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Gabon,Africa,AF,GAB,77.91,0.62,7956.627816,2120000,Affordable and needed,More expensive than satellite,Affordable and needed
+Ghana,Africa,AF,GHA,69.54,0.39,2202.312164,29800000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Kenya,Africa,AF,KEN,56.11,0.178271,1707.986805,51400000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Lesotho,Africa,AF,LSO,94.04,0.29,1221.883763,2110000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Libya,Africa,AF,LBY,51.97,0.217589,7877.122251,6680000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Madagascar,Africa,AF,MDG,67.21,0.098,527.5013261,26300000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Mali,Africa,AF,MLI,59.34,0.13,900.1101645,19100000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Mauritania,Africa,AF,MRT,694.63,0.20801,1600.876469,4400000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Mauritius,Africa,AF,MUS,50.3,0.585962,11208.22737,1270000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Morocco,Africa,AF,MAR,33.81,0.648039,3222.200634,36000000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Mozambique,Africa,AF,MOZ,175.25,0.1,498.9572202,29500000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Namibia,Africa,AF,NAM,133.38,0.51,5495.428836,2450000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Niger,Africa,AF,NER,55.07,0.0525049,571.5269922,22400000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Nigeria,Africa,AF,NGA,78.21,0.42,2032.729709,196000000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Senegal,Africa,AF,SEN,38.82,0.46,1465.591006,15900000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Seychelles,Africa,AF,SYC,122.72,0.587698,16390.82488,96800,Affordable and needed,More expensive than satellite,Affordable and needed
+South Africa,Africa,AF,ZAF,44.77,0.561674,6374.028196,57800000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Tanzania,Africa,AF,TZA,188.16,0.25,1060.994615,56300000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Togo,Africa,AF,TGO,45.91,0.123602,678.9556381,7890000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Tunisia,Africa,AF,TUN,14.28,0.641908,3438.789089,11600000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Zimbabwe,Africa,AF,ZWE,63.87,0.270555,1683.740577,14400000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Afghanistan,Asia,AS,AFG,25.87,0.135,524.1628809,37200000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Armenia,Asia,AS,ARM,14.6,0.647449,4220.490277,2950000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Bahrain,Asia,AS,BHR,145.89,0.986434,23991.05668,1570000,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Bangladesh,Asia,AS,BGD,27.35,0.15,1698.350394,161000000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Bhutan,Asia,AS,BTN,10.42,0.481064,3243.231126,754000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Brunei Darussalam,Asia,AS,BRN,157.02,0.946,31628.32879,429000,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Cambodia,Asia,AS,KHM,32.63,0.4,1512.12671,16200000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+China,Asia,AS,CHN,31.41,0.543,9976.676822,1390000000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Hong Kong SAR China,Asia,AS,HKG,47.35,0.894159,48542.88733,7450000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+India,Asia,AS,IND,12.9,0.3445,2005.863005,1350000000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Indonesia,Asia,AS,IDN,30.02,0.397875,3893.846425,268000000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Iraq,Asia,AS,IRQ,41.49,0.4936,5834.166211,38400000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Israel,Asia,AS,ISR,19.9,0.815812,41719.72544,8880000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Japan,Asia,AS,JPN,40.33,0.845881,39159.42356,127000000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Jordan,Asia,AS,JOR,56.42,0.667903,4241.788782,9960000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Korea Rep.,Asia,AS,KOR,25.52,0.958983,33340.26515,51600000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Kuwait,Asia,AS,KWT,48.89,0.996,33994.38192,4140000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Kyrgyz Republic,Asia,AS,KGZ,28.7,0.38,1308.140165,6320000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Lao PDR,Asia,AS,LAO,47.24,0.255104,2542.486528,7060000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Lebanon,Asia,AS,LBN,40.14,0.781808,8024.803271,6850000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Macao SAR China,Asia,AS,MAC,37.48,0.837941,87208.53591,632000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Malaysia,Asia,AS,MYS,31.75,0.812017,11373.233,31500000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Maldives,Asia,AS,MDV,88.53,0.631857,10330.61561,516000,Affordable and needed,More expensive than satellite,Affordable and needed
+Mongolia,Asia,AS,MNG,12.59,0.237143,4134.987198,3170000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Myanmar,Asia,AS,MMR,36.82,0.306782,1418.177623,53700000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Nepal,Asia,AS,NPL,12.05,0.34,1038.651647,28100000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Oman,Asia,AS,OMN,77.91,0.801856,16414.88802,4830000,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Pakistan,Asia,AS,PAK,17.55,0.1551,1482.305667,212000000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Philippines,Asia,AS,PHL,39.29,0.600548,3252.092324,107000000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Qatar,Asia,AS,QAT,109.87,0.996528,68793.78444,2780000,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Saudi Arabia,Asia,AS,SAU,82.85,0.9331,23338.96346,33700000,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Singapore,Asia,AS,SGP,43.8,0.881656,66188.7794,5640000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Sri Lanka,Asia,AS,LKA,27.4,0.341133,4080.567125,21700000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Tajikistan,Asia,AS,TJK,35.58,0.2196,826.6215305,9100000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Thailand,Asia,AS,THA,23.82,0.568175,7295.475616,69400000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Timor-Leste,Asia,AS,TLS,57.33,0.274927,1237.102682,1270000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Turkmenistan,Asia,AS,TKM,224.68,0.21251,6966.635411,5850000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+United Arab Emirates,Asia,AS,ARE,115.97,0.9845,43839.35635,9630000,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Uzbekistan,Asia,AS,UZB,11.44,0.523051,1529.082864,33000000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Vietnam,Asia,AS,VNM,11.23,0.703496,2566.59695,95500000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Yemen Rep.,Asia,AS,YEM,2466.67,0.267184,968.1590476,28500000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Albania,Europe,EU,ALB,20.55,0.71847,5284.380184,2870000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Andorra,Europe,EU,AND,32.65,0.915675,41793.05526,77000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Austria,Europe,EU,AUT,35.99,0.877105,51525.04643,8840000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Azerbaijan,Europe,EU,AZE,16.76,0.798,4739.84171,9940000,Unaffordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Belarus,Europe,EU,BLR,9.87,0.791299,6330.075246,9480000,Unaffordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Belgium,Europe,EU,BEL,44.39,0.886551,47491.32326,11400000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Bosnia and Herzegovina,Europe,EU,BIH,20.19,0.701201,6072.180992,3320000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Bulgaria,Europe,EU,BGR,15.93,0.64782,9423.558612,7030000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Croatia,Europe,EU,HRV,33.69,0.726888,14920.19138,4090000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Cyprus,Europe,EU,CYP,49.39,0.844336,28689.70672,1190000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Czech Republic,Europe,EU,CZE,22.38,0.806882,23046.94913,10600000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Denmark,Europe,EU,DNK,48.23,0.976443,61390.69301,5790000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Estonia,Europe,EU,EST,28.93,0.89357,23258.46758,1320000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Finland,Europe,EU,FIN,43.85,0.8889,50021.29106,5520000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+France,Europe,EU,FRA,27.81,0.820435,41631.09074,67000000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Georgia,Europe,EU,GEO,13.86,0.639686,4722.787783,3730000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Germany,Europe,EU,DEU,28.74,0.897391,47639.00344,82900000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Greece,Europe,EU,GRC,40.56,0.729521,20324.30501,10700000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Hungary,Europe,EU,HUN,16.91,0.760744,16150.77276,9780000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Iceland,Europe,EU,ISL,64.71,0.99011,72968.70423,353000,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Ireland,Europe,EU,IRL,57.32,0.845223,78621.22796,4870000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Italy,Europe,EU,ITA,33.28,0.743872,34520.08516,60400000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Kazakhstan,Europe,EU,KAZ,11.1,0.789039,9812.601405,18300000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Latvia,Europe,EU,LVA,16.55,0.835772,17805.28031,1930000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Lithuania,Europe,EU,LTU,11.14,0.797226,19080.61737,2800000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Luxembourg,Europe,EU,LUX,48.16,0.970613,116654.2611,608000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Malta,Europe,EU,MLT,40.33,0.814031,30133.46617,485000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Moldova,Europe,EU,MDA,11.57,0.761245,4233.999556,2710000,Unaffordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Monaco,Europe,EU,MCO,34.49,0.97053,185829.018,38700,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Montenegro,Europe,EU,MNE,30.04,0.715173,8850.092733,622000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Norway,Europe,EU,NOR,70.97,0.964917,81734.46557,5310000,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Poland,Europe,EU,POL,15.78,0.775417,15460.64428,38000000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Portugal,Europe,EU,PRT,49.42,0.74661,23461.57186,10300000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Romania,Europe,EU,ROU,8.15,0.706813,12408.59649,19500000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Russian Federation,Europe,EU,RUS,7.35,0.808647,11370.81346,144000000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+San Marino,Europe,EU,SMR,48.97,0.601823,48481.0133,33800,Affordable and needed,Cheaper than satellite,Affordable and needed
+Serbia,Europe,EU,SRB,17.02,0.733607,7246.191986,6980000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Slovak Republic,Europe,EU,SVK,18.54,0.806603,19428.11621,5450000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Slovenia,Europe,EU,SVN,31.16,0.7975,26054.5421,2070000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Spain,Europe,EU,ESP,39.38,0.861072,30337.67913,46800000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Sweden,Europe,EU,SWE,39.6,0.921417,54589.06039,10200000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Switzerland,Europe,EU,CHE,72.1,0.896861,82818.10816,8510000,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Turkey,Europe,EU,TUR,13.61,0.710428,9370.176355,82300000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Ukraine,Europe,EU,UKR,6.64,0.588895,3096.817402,44600000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+United Kingdom,Europe,EU,GBR,35.71,0.948967,43043.22782,66500000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Antigua and Barbuda,North America,NA,ATG,82.14,0.76,16726.98081,96300,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Bahamas The,North America,NA,BHS,82.56,0.85,32217.87159,386000,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Barbados,North America,NA,BRB,59.46,0.817608,17745.19346,287000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Belize,North America,NA,BLZ,62.54,0.470826,4884.734162,383000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Canada,North America,NA,CAN,34.86,0.91,46313.17137,37100000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Cayman Islands,North America,NA,CYM,150.07,0.810677,85477.28701,64200,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Costa Rica,North America,NA,CRI,43.22,0.740868,12112.13442,5000000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Curacao,North America,NA,CUW,78.57,0.681272,19573.89265,160000,Affordable and needed,More expensive than satellite,Affordable and needed
+Dominica,North America,NA,DMA,51.43,0.696197,7691.345097,71600,Affordable and needed,Cheaper than satellite,Affordable and needed
+Dominican Republic,North America,NA,DOM,26.52,0.748243,8050.63044,10600000,Affordable and needed,Cheaper than satellite,Affordable and needed
+El Salvador,North America,NA,SLV,41.96,0.338207,4067.659449,6420000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Greenland,North America,NA,GRL,163.68,0.694825,54470.95639,56000,Affordable and needed,More expensive than satellite,Affordable and needed
+Grenada,North America,NA,GRD,42.55,0.590717,10485.90716,111000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Guatemala,North America,NA,GTM,38.13,0.65,4472.892363,16300000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Haiti,North America,NA,HTI,124.5,0.324736,868.3420248,11100000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Honduras,North America,NA,HND,60,0.317,2505.776752,9590000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Jamaica,North America,NA,JAM,47.57,0.550721,5354.236859,2930000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Mexico,North America,NA,MEX,33.15,0.657726,9673.443674,126000000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Nicaragua,North America,NA,NIC,56.5,0.27863,2020.547028,6470000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Panama,North America,NA,PAN,47.45,0.578651,15592.57368,4180000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Puerto Rico,North America,NA,PRI,47.99,0.705979,31621.89347,3190000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Trinidad and Tobago,North America,NA,TTO,56.73,0.773261,17129.91309,1390000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+United States,North America,NA,USA,50,0.872661,62996.66482,327000000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Australia,Oceania,OC,AUS,48.35,0.86545,57395.91947,25000000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Fiji,Oceania,OC,FJI,55.42,0.499664,6266.967959,883000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Guam,Oceania,OC,GUM,79,0.805055,35712.56214,166000,Affordable and not needed,More expensive than satellite,Unaffordable and/or not needed
+Marshall Islands,Oceania,OC,MHL,86.2,0.387012,3788.163594,58400,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Micronesia Fed. Sts.,Oceania,OC,FSM,81,0.353041,3568.291016,113000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+New Zealand,Oceania,OC,NZL,54,0.908111,42949.93058,4840000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Papua New Guinea,Oceania,OC,PNG,51.06,0.112092,2720.385245,8610000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Vanuatu,Oceania,OC,VUT,95.25,0.257198,3095.702156,293000,Unaffordable and needed,More expensive than satellite,Unaffordable and/or not needed
+Argentina,South America,SA,ARG,13.69,0.742949,11683.94962,44500000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Bolivia,South America,SA,BOL,41.53,0.438323,3548.590153,11400000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Brazil,South America,SA,BRA,28.24,0.674713,9001.234249,209000000,Affordable and needed,Cheaper than satellite,Affordable and needed
+Chile,South America,SA,CHL,33.99,0.823275,15924.79424,18700000,Affordable and not needed,Cheaper than satellite,Unaffordable and/or not needed
+Colombia,South America,SA,COL,25.05,0.622599,6718.585324,49600000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Ecuador,South America,SA,ECU,43.87,0.572722,6295.935399,17100000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Guyana,South America,SA,GUY,54.66,0.373258,4979.002188,779000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Paraguay,South America,SA,PRY,24.46,0.649935,5805.675616,6960000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Peru,South America,SA,PER,26.17,0.525403,6941.235848,32000000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Suriname,South America,SA,SUR,39.82,0.489452,6003.723066,576000,Unaffordable and needed,Cheaper than satellite,Unaffordable and/or not needed
+Uruguay,South America,SA,URY,40.1,0.682797,17277.97011,3450000,Affordable and needed,Cheaper than satellite,Affordable and needed
