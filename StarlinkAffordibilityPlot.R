@@ -29,6 +29,6 @@ ggplot(data=fil,aes(Cost,InternetPercentage))+
   scale_shape_manual(name="Current Internet cost",values=c(1,16))+
   guides(col = guide_legend(order=1,override.aes = list(size = 5)),shape = guide_legend(order=2,override.aes = list(size = 5)),size=guide_legend(order=3))+
   theme_light()+
-  theme(width = 10.9,height = 8.02,aspect.ratio = 0.6,text=element_text(size=13.5,family="Segoe UI Semilight"))
+  theme(width = 10.9,height = 8.02,aspect.ratio = 1,text=element_text(size=13.5,family="Segoe UI Semilight"))
   
 ggsave("affordability.png",path="D:/...",device="png",dpi=500) #save the plot with the desired name at the desired path
